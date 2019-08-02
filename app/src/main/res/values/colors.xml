@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#CCCCCC</color>
+    <color name="colorAccent">#3083FF</color>
+
+    <color name="colorImagePlaceholder">#14141B25</color>
+    <color name="colorEmpress">#757575</color>
+    <color name="colorMidnightExpress">#141B25</color>
+    <color name="colorRoyalBlue">#3867D6</color>
+</resources>

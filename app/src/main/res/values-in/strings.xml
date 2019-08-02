@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Titles -->
+    <string name="general">Umum</string>
+    <string name="technology">Teknologi</string>
+    <string name="entertainment">Hiburan</string>
+    <string name="sports">Olahraga</string>
+    <string name="news">Berita</string>
+    <string name="profile">Profil</string>
+    <string name="about">Tentang</string>
+    <string name="about_me">Tentang Saya</string>
+    <string name="education">Pendidikan</string>
+
+    <string name="no_results">Tidak ada hasil</string>
+
+    <string name="profile_description">
+        Android developer dengan pengalaman mengembangkan aplikasi android sejak 2017
+    </string>
+    <string name="smk_negeri_4_bandung_software_engineering">
+        SMK Negeri 4 Bandung, RekayasaPerangkat Lunak
+    </string>
+    <string name="universitas_komputer_indonesia_information_systems">
+        Universitas Komputer Indonesia, Sistem Informasi
+    </string>
+
+    <string name="about_app">
+        Aplikasi ini berguna untuk mencari berita terbaru berdasarkan kategori-kategori yang ada
+    </string>
+</resources>

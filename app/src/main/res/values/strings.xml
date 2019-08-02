@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name" translatable="false">GITS News</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+
+    <!-- Titles -->
+    <string name="general">General</string>
+    <string name="technology">Technology</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="sports">Sports</string>
+    <string name="news">News</string>
+    <string name="profile">Profile</string>
+    <string name="about">About</string>
+    <string name="about_me">About Me</string>
+    <string name="education">Education</string>
+
+    <string name="no_results">No results</string>
+
+    <string name="_2006_2012" translatable="false">2006 – 2012</string>
+    <string name="_2012_2015" translatable="false">2012 – 2015</string>
+    <string name="_2015_2018" translatable="false">2015 – 2018</string>
+    <string name="_2018" translatable="false">2018 - …</string>
+
+    <string name="profile_description">
+        Android developer with experience developing android applications since 2017
+    </string>
+    <string name="sd_negeri_babakan_ciparay_2" translatable="false">
+        SD Negeri Babakan Ciparay 2
+    </string>
+    <string name="smp_negeri_36_bandung" translatable="false">SMP Negeri 36 Bandung</string>
+    <string name="smk_negeri_4_bandung_software_engineering">
+        SMK Negeri 4 Bandung, Software Engineering
+    </string>
+    <string name="universitas_komputer_indonesia_information_systems">
+        Universitas Komputer Indonesia, Information Systems
+    </string>
+
+    <string name="my_email" translatable="false">sandisetiawan444@gmail.com</string>
+    <string name="my_name" translatable="false">Sandi Setiawan</string>
+
+    <string name="about_app">
+        This application is useful for finding the latest news based on existing categories
+    </string>
+</resources>
